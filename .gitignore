@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.DS_Store
+*.log
+*.err
+appserver.err
+appserver.log
+preview.err
+preview.log
+tunnel.err
+tunnel.log
+tunnel2.err
+tunnel2.log
